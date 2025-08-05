@@ -67,15 +67,6 @@ This was my first exposure to using Gobuster, and it immediately clicked how val
 
 ---
 
-## 📁 Next Steps
-
-- Try rooms like **Basic Pentesting**, **OWASP Top 10**, or **Vulnversity** to expand web exploitation skills
-- Learn to use **Burp Suite** for deeper web app testing
-- Review defensive logs (later modules) to see how brute-force attempts might be detected
-- Write a small guide on protecting admin portals using access controls, obscure paths, and rate limiting
-
----
-
 ## ✅ Tags
 
 `TryHackMe` `Gobuster` `Web Exploitation` `Admin Portal` `Offensive Security` `Directory Brute Force` `CTF Walkthrough`
