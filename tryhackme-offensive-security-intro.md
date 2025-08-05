@@ -1,7 +1,7 @@
 # TryHackMe – Introduction to Offensive Security
 
 🗂️ Room Link: [https://tryhackme.com/room/introductiontooffensivesecurity](https://tryhackme.com/room/introductiontooffensivesecurity)  
-📅 Date Completed: *Add date here*
+📅 Date Completed: 8-5-2025
 
 ---
 
