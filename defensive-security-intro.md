@@ -1,7 +1,7 @@
 # TryHackMe – Introduction to Defensive Security
 
 🗂️ Room Link: [https://tryhackme.com/room/introductiontodefensivesecurity](https://tryhackme.com/room/introductiontodefensivesecurity)  
-📅 Date Completed: *Add date here*
+📅 Date Completed: 8-5-2025
 
 ---
 
