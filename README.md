@@ -25,7 +25,7 @@ This repo serves as:
 | Room Name                            | Role Focus     | Link to Write-Up                            |
 |-------------------------------------|----------------|---------------------------------------------|
 | Introduction to Offensive Security  | Red Team       | [View](./tryhackme-offensive-security-intro.md) |
-| Introduction to Defensive Security  | Blue Team      | [View](./tryhackme-defensive-security-intro.md)  |
+| Introduction to Defensive Security  | Blue Team      | [View](./defensive-security-intro.md)  |
 
 *More rooms will be added as I continue learning.*
 
