@@ -75,20 +75,6 @@ I reviewed how domains form the basic security boundary and how trees/forests pr
 - Deepen Kerberos knowledge: practice hands-on with ticket forging detection, constrained delegation, and common Kerberos-related attacks (in safe lab environments).
 - Explore AD attack/defense: simulate lateral movement techniques and corresponding defensive detections (event logs, detections for unusual Kerberos requests, etc.).
 - Automate AD tasks with PowerShell: scripts for bulk user provisioning and safe GPO reporting.
-- Document reproducible lab steps and add screenshots/screencasts to this write-up for a richer portfolio artifact.
 
----
 
-## How to reproduce (quick steps)
-1. Launch an AD lab VM or TryHackMe room with a domain controller and a Windows client.
-2. Use ADUC or PowerShell to create an OU and a test user.
-3. Create a GPO in GPMC, edit a simple setting (e.g., logon message), link it to the OU.
-4. On the domain-joined client, run `gpupdate /force` and verify the policy applied.
-5. Use `klist` on the client to view Kerberos tickets and observe behavior after logging off and back on.
-
----
-
-If you'd like, I can:
-- Expand this into a longer GitHub README with screenshots and PowerShell scripts.
-- Convert it into a polished `.md` file with embedded images or step-by-step terminal transcripts for the repo.
 
